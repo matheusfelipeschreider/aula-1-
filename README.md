@@ -1,52 +1,20 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #ADD8E6;
-}
-
-#banner {
-    width: 70%;
-    margin: 20px auto;
-}
-
-h1 {
-    text-align:center;
-
-p {
-    margin: 20px 0;
-}
-#titulo {
-    text-align: center;
-}
-
-.texto {
-    color: #181661;
-    text-align: center;
-    }
-
-Adicionar comentário para a turma...
-
-
-Aviso: "PARA COLOCAR COR NO FUNDO PRECISA…"
-DENISE HEUERT
-Criado em: 14 de nov.14 de nov.
-PARA COLOCAR COR NO FUNDO PRECISA DIGITAR ESSES COMANDOS NO STYLE.CSS
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #91c8f5;
-}
-
-#banner {
-    width: 100%;
-    margin: 20px auto;
-}
-
-h1 {
-    text-align:center;
-
-p {
-    margin: 20px 0;
-}
+<!DOCTYPE <html> 
+<html lang- "pt-Br">
+<head>
+    <meta charset = "UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   center <img id="banner"  src="YOUTZ-MATEMATICA-ENEM-870x420.jpg" alt="Pensamento Computacional">
+    <p style="background-color: purple">
+    <h1 id="titulo">Minha primeira página da internet </h1>
+    <p  class="texto"> Minhas aulas de Matemática </p>
+    <p  class="texto"><em> <strong> <q> Matemática fundamental</q></strong></em></p>
+    <section><ol> <li>Geometria</li>
+        <li>Álgebra</li>
+    <li>Tratamento da informação</li>   
+    </ol>
+    </section>
+    
+</body>
+</html>
